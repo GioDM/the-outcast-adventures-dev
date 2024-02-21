@@ -7,10 +7,10 @@ There are still things to be worked on: quests, balancing mods, making custom da
 # What has changed?
 
 - Updated most mods to latest version.
-- Added a custom datapack for getting more __curious__ slots.
-- Added __Chipped__ so you can express your build with more personality.
-- __Resource packs__ will be automatically applied when joining.
-- Added __Villager Guards__ so your villagers can rest at night knowing that they are protected.
+- Added a custom datapack for getting more **curious** slots.
+- Added **Chipped** so you can express your build with more personality.
+- **Resource packs** will be automatically applied when joining.
+- Added **Villager Guards** so your villagers can rest at night knowing that they are protected.
 - Fixed some bugs with the custom menu's.
 
 # Want to see something changed?
