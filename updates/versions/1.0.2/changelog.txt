@@ -1,5 +1,6 @@
 # Welcome to Alpha 1.0.2!
 
+
 In the last release I saw that structures didn't spawn as often as I hoped for.
 I added a structure mod and changed some configs in order to up the frequency of structures spawning.
 There are still things to be worked on: quests, balancing mods, making custom datapacks, ...
