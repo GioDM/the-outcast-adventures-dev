@@ -13,6 +13,5 @@ There are still things to be worked on: quests, balancing mods, making custom da
 - Added __Villager Guards__ so your villagers can rest at night knowing that they are protected.
 - Fixed some bugs with the custom menu's.
 
-
 # Want to see something changed?
 Don't hesitate to text me on discord through [my discord server](https://www.discord.gg/sMWMsq3hkJ)!
