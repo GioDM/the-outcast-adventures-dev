@@ -1,0 +1,28 @@
+&lWelcome to Alpha 1.0.2!&r
+
+In the last release I saw that
+structures didn't spawn as
+often as I hoped for.
+I added a structure mod and changed
+some configs in order to up the
+frequency of structures spawning.
+There are still things to be worked on:
+quests are worked on, balancing mods,
+making custom datapacks, ...
+
+&lWhat has changed?&r
+
+ - Updated most mods to latest version.
+ - Added a custom datapack for getting
+ more &b&lcurious&r slots.
+ - Added &b&lChipped&r so you can express
+ your build with more personality.
+ - &b&lResource packs&r will be automatically
+ applied when joining minecraft.
+ - Added &b&lVillager Guards&r so your
+ villagers can rest at night knowing that
+ they are protected.
+ - Fixed some bugs with the custom menu's.
+
+&lWant to see something changed?&r
+Don't hesitate to text me on discord!
